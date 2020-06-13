@@ -10,6 +10,6 @@ REVC | Complementing a Strand of DNA | [Python](03-REVC.py)
 FIB | Rabbits and Recurrence Relations | [Python](04-FIB.py)
 GC | Computing GC Content | [Python](05-GC.py)
 HAMM | Counting Point Mutations | [Python](06-HAMM.py)
-IPRB | Mendel's First Law |
-PROT | Translating RNA into Protein |
-SUBS | Finding a Motif in DNA |
+IPRB | Mendel's First Law | [Python](07-IPRB.py)
+PROT | Translating RNA into Protein | [Python](08-PROT.py)
+SUBS | Finding a Motif in DNA | [Python](09-SUBS.py)
