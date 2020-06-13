@@ -24,11 +24,7 @@ translation = {"UUU":"F", "UUC":"F",
           "GAU":"D", "GAC":"D",
           "GAA":"E", "GAG":"E",
           "GGU":"G", "GGC":"G", "GGA":"G", "GGG":"G"}
-
-
 for x in range(0, len(s), 3):
     codons.append(s[x:x+3])
-
-
 for y in range(0, len(codons)-1):
     print(translation[codons[y]], end="")
