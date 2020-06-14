@@ -1,4 +1,5 @@
 s = input("Input DNA string: ")
+#s[::-1] reverses s
 for x in s[::-1]:
     if x == "A":
         print("T", end = "")
