@@ -18,3 +18,4 @@ IEV | Calculating Expected Offspring | [Python](11-IEV/11-IEV.py) | 14/06/20
 MRNA | Inferring mRNA from Protein | [Python](12-MRNA/12-MRNA.py) | 14/06/20
 PRTM | Calculating Protein Mass | [Python](13-PRTM/13-PRTM.py) | 14/06/20
 SPLC | RNA Splicing | [Python](14-SPLC/14-SPLC.py) | 14/06/20
+TRAN | Transitions and Transversions | [Python](15-TRAN/15-TRAN.py) | 14/06/20
