@@ -1,5 +1,7 @@
-#s = open("rosalind_prot.txt","r").read()
-s = "AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA"
+# Given: An RNA string s corresponding to a strand of mRNA (of length at most 10 kbp).
+# Return: The protein string encoded by s.
+
+s = open("rosalind_prot.txt","r").read()
 codons = []
 translation = {"UUU":"F", "UUC":"F",
           "UUA":"L", "UUG":"L",

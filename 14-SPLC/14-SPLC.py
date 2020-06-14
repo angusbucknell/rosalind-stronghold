@@ -1,15 +1,20 @@
+# Given: A DNA string s and a collection of substrings of s acting as introns. All strings are given in FASTA format.
+# Return: A protein string resulting from transcribing and translating the exons of s.
+
 FASTA_input = open("rosalind_splc.txt", "r")
 data = FASTA_input.read().split(">")[1:]
-
+# Converts FASTA format to array
 for x in range(0,len(data)):
     data[x] = data[x].splitlines()
 for x in range(0,len(data)):
     data[x][1] = "".join(data[x][1:])
     data[x] = data[x][0:2]
+# Finds and removes all substring introns
 spliced = data[0][1]
 for x in range(1,len(data)):
     while spliced.find(data[x][1]) != -1:
         spliced = spliced.replace(data[x][1],"")
+# Transcribes DNA to RNA
 r_spliced = spliced.replace("T","U")
 
 codons = []
@@ -41,5 +46,3 @@ for x in range(0, len(r_spliced), 3):
     codons.append(r_spliced[x:x+3])
 for y in range(0, len(codons)-1):
     print(translation[codons[y]], end="")
-    
-    
