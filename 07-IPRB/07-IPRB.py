@@ -1,3 +1,7 @@
+# Given: Three positive integers representing a population containing k+m+n organisms: k individuals are homozygous dominant for a factor, m are heterozygous, and n are homozygous recessive.
+
+# Return: The probability that two randomly selected mating organisms will produce an individual possessing a dominant allele. Assume that any two organisms can mate.
+
 k = int(input("Input homozygous dominant: "))
 m = int(input("Input heterozygous: "))
 n = int(input("Input homozygous recessive: "))
