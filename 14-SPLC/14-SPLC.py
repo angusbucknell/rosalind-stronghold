@@ -46,5 +46,3 @@ for x in range(0, len(r_spliced), 3):
     codons.append(r_spliced[x:x+3])
 for y in range(0, len(codons)-1):
     print(translation[codons[y]], end="")
-    
-    
