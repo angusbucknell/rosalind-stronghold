@@ -1,3 +1,6 @@
+# Given: Two DNA strings s and t of equal length (not exceeding 1 kbp).
+# Return: The Hamming distance
+
 mutation_data = open("rosalind_hamm.txt", "r")
 data = mutation_data.read().split("\n")
 hamming_distance = 0
