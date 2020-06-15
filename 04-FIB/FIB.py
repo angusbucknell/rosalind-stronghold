@@ -9,6 +9,8 @@ for x in range(0, n):
     temp = immature
     # Simulates new offspring from breedable rabbits
     immature = k * breeding
+    print("immature: ",immature)
     # Changes last month immature in breedable rabbits
     breeding = breeding + temp
+    print("breeding: ",breeding)
 print(breeding)
