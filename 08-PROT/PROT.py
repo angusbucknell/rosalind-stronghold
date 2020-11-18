@@ -1,7 +1,8 @@
 # Given: An RNA string s corresponding to a strand of mRNA (of length at most 10 kbp).
 # Return: The protein string encoded by s.
 
-s = open("rosalind_prot.txt","r").read()
+s = "AUGCUACUCGGAUCAUUCAGGCUUAUUCCAAAAGAGACUCUAAUCCAAGUCGCGGGGUCAUCCCCAUGUAACCUGAGUUAGCUACAUGGCU"
+#open("rosalind_prot.txt","r").read()
 codons = []
 translation = {"UUU":"F", "UUC":"F",
           "UUA":"L", "UUG":"L",
@@ -32,3 +33,4 @@ for x in range(0, len(s), 3):
 print(codons)
 for y in range(0, len(codons)-1):
     print(translation[codons[y]], end="")
+
