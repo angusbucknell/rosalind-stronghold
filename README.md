@@ -23,7 +23,8 @@ LCSM | [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | [Python](
 MRNA | [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | [Python](15-MRNA/MRNA.py) | 14/06/20
 PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](16-PRTM/PRTM.py) | 14/06/20
 SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](17-SPLC/SPLC.py) | 14/06/20
-TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](18-TRAN/TRAN.py) | 14/06/20
+PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](18-PROB/PROB.py) | 18/11/20
+TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](19-TRAN/TRAN.py) | 14/06/20
 LIA | [Independent Alleles](http://rosalind.info/problems/lia/)
 MPRT | [Finding a Protein Motif](http://rosalind.info/problems/mprt/)
 ORF | [Open Reading Frames](http://rosalind.info/problems/orf/)
@@ -31,7 +32,6 @@ PERM | [Enumerating Gene Orders](http://rosalind.info/problems/perm/)
 REVP | [Locating Restriction Sites](http://rosalind.info/problems/revp/)
 LONG | [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/)
 PMCH | [Perfect Matchings and RNA Secondary Structures](http://rosalind.info/problems/pmch/)
-PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/)
 SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/)
 TREE | [Completing a Tree](http://rosalind.info/problems/tree/)
 LEXF |
