@@ -10,7 +10,7 @@ DNA | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | [Python](
 RNA | [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | [Python](02-RNA.py) | 12/06/20
 REVC | [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) | [Python](03-REVC.py) | 12/06/20
 FIB | [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | [Python](04-FIB.py) | 12/06/20
-GC | [Computing GC Content](http://rosalind.info/problems/gc/) | [Python](05-GC/GC.py) | 12/06/20
+GC | [Computing GC Content](http://rosalind.info/problems/gc/) | [Python](05-GC.py) | 12/06/20
 HAMM | [Counting Point Mutations](http://rosalind.info/problems/hamm/) | [Python](06-HAMM.py) | 12/06/20
 IPRB | [Mendel's First Law](http://rosalind.info/problems/iprb/) | [Python](07-IPRB.py) | 13/06/20
 PROT | [Translating RNA into Protein](http://rosalind.info/problems/prot/) | [Python](08-PROT.py) | 13/06/20
