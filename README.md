@@ -20,6 +20,7 @@ FIBD | 	[Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | [Pytho
 GRPH | [Overlap Graphs](http://rosalind.info/problems/grph/) | [Python](12-GRPH/GRPH.py) | 15/06/20
 IEV | [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | [Python](13-IEV/IEV.py) | 14/06/20
 LCSM | [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | [Python](14-LCSM/LCSM.py) | 15/06/20
+MPRT | | | 18/01/21
 MRNA | [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | [Python](15-MRNA/MRNA.py) | 14/06/20
 PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](16-PRTM/PRTM.py) | 14/06/20
 SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](17-SPLC/SPLC.py) | 14/06/20
