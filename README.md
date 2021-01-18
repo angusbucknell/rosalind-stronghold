@@ -1,9 +1,10 @@
-# Project Rosalind
-My developed solutions to the [Rosalind bioinformatics problems](http://rosalind.info/problems/tree-view/).
-
-[Link to my profile.](http://rosalind.info/users/angusbucknell/)
+# Project Rosalind Solutions
+### My solutions to the [Rosalind bioinformatics problems](http://rosalind.info/problems/tree-view/).
+[Link to my profile](http://rosalind.info/users/angusbucknell/).
 
 ## Progress
+[![](https://img.shields.io/badge/Progress-21%2F105-blue)](https://github.com/angusbucknell/rosalind-stronghold)
+
 ID | Title | Solution | Date
 -- | -- | -- | --
 DNA | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | [Python](01-DNA.py) | 12/06/20
