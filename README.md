@@ -25,7 +25,7 @@ MRNA | [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | [Pyt
 PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](17-PRTM.py) | 14/06/20
 SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](18-SPLC.py) | 14/06/20
 PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](19-PROB.py) | 18/11/20
-SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | Python (20-SSEQ.py) | 19/11/20
+SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | [Python](20-SSEQ.py) | 19/11/20
 TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](21-TRAN.py) | 14/06/20
 LIA | [Independent Alleles](http://rosalind.info/problems/lia/)
 ORF | [Open Reading Frames](http://rosalind.info/problems/orf/)
