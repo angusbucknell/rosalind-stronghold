@@ -1,16 +1,17 @@
-# Project Rosalind
-My developed solutions to the [Rosalind bioinformatics problems](http://rosalind.info/problems/tree-view/).
-
-[Link to my profile.](http://rosalind.info/users/angusbucknell/)
+# Project Rosalind Solutions
+### My solutions to the [Rosalind bioinformatics problems](http://rosalind.info/problems/tree-view/).
+[Link to my profile](http://rosalind.info/users/angusbucknell/).
 
 ## Progress
+[![](https://img.shields.io/badge/Progress-22%2F105-blue)](https://github.com/angusbucknell/rosalind-stronghold)
+
 ID | Title | Solution | Date
 -- | -- | -- | --
 DNA | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | [Python](01-DNA.py) | 12/06/20
 RNA | [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | [Python](02-RNA.py) | 12/06/20
 REVC | [Complementing a Strand of DNA](http://rosalind.info/problems/revc/) | [Python](03-REVC.py) | 12/06/20
 FIB | [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) | [Python](04-FIB.py) | 12/06/20
-GC | [Computing GC Content](http://rosalind.info/problems/gc/) | [Python](05-GC/GC.py) | 12/06/20
+GC | [Computing GC Content](http://rosalind.info/problems/gc/) | [Python](05-GC.py) | 12/06/20
 HAMM | [Counting Point Mutations](http://rosalind.info/problems/hamm/) | [Python](06-HAMM.py) | 12/06/20
 IPRB | [Mendel's First Law](http://rosalind.info/problems/iprb/) | [Python](07-IPRB.py) | 13/06/20
 PROT | [Translating RNA into Protein](http://rosalind.info/problems/prot/) | [Python](08-PROT.py) | 13/06/20
@@ -22,13 +23,13 @@ IEV | [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | [Py
 LCSM | [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | [Python](14-LCSM.py) | 15/06/20
 MPRT | [Finding a Finding a Protein Motif](http://rosalind.info/problems/mprt/) | [Python](15-MPRT.py) | 18/01/21
 MRNA | [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | [Python](16-MRNA.py) | 14/06/20
-PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](17-PRTM.py) | 14/06/20
-SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](18-SPLC.py) | 14/06/20
-PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](19-PROB.py) | 18/11/20
-SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | Python (20-SSEQ.py) | 19/11/20
-TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](21-TRAN.py) | 14/06/20
+ORF | [Open Reading Frames](http://rosalind.info/problems/orf/) | [Python](17-ORF.py) | 19/01/21
+PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](18-PRTM.py) | 14/06/20
+SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](19-SPLC.py) | 14/06/20
+PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](20-PROB.py) | 18/11/20
+SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | [Python](21-SSEQ.py) | 19/11/20
+TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](22-TRAN.py) | 14/06/20
 LIA | [Independent Alleles](http://rosalind.info/problems/lia/)
-ORF | [Open Reading Frames](http://rosalind.info/problems/orf/)
 PERM | [Enumerating Gene Orders](http://rosalind.info/problems/perm/)
 REVP | [Locating Restriction Sites](http://rosalind.info/problems/revp/)
 LONG | [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/)
