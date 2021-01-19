@@ -5,7 +5,7 @@
 ## Progress
 [![](https://img.shields.io/badge/Progress-22%2F105-blue)](https://github.com/angusbucknell/rosalind-stronghold)
 
-ID | Title | Solution | Date
+ID | Title | Solution | Date (DD/MM/YY)
 -- | -- | -- | --
 DNA | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | [Python](01-DNA.py) | 12/06/20
 RNA | [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | [Python](02-RNA.py) | 12/06/20
