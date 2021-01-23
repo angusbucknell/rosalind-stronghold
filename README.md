@@ -16,7 +16,7 @@ HAMM | [Counting Point Mutations](http://rosalind.info/problems/hamm/) | [Python
 IPRB | [Mendel's First Law](http://rosalind.info/problems/iprb/) | [Python](07-IPRB.py) | 13/06/20
 PROT | [Translating RNA into Protein](http://rosalind.info/problems/prot/) | [Python](08-PROT.py) | 13/06/20
 SUBS | [Finding a Motif in DNA](http://rosalind.info/problems/subs/) | [Python](09-SUBS.py) | 13/06/20
-CONS | [Conensus and Profile](http://rosalind.info/problems/cons/) | [Python](10CONS.py) | 14/06/20
+CONS | [Conensus and Profile](http://rosalind.info/problems/cons/) | [Python](10-CONS.py) | 14/06/20
 FIBD | 	[Mortal Fibonacci Rabbits](http://rosalind.info/problems/fibd/) | [Python](11-FIBD.py) | 15/06/20
 GRPH | [Overlap Graphs](http://rosalind.info/problems/grph/) | [Python](12-GRPH.py) | 15/06/20
 IEV | [Calculating Expected Offspring](http://rosalind.info/problems/iev/) | [Python](13-IEV.py) | 14/06/20
@@ -27,9 +27,10 @@ ORF | [Open Reading Frames](http://rosalind.info/problems/orf/) | [Python](17-OR
 PERM | [Enumerating Gene Orders](http://rosalind.info/problems/perm/) | [Python](18-PERM.py) | 23/01/21
 PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](19-PRTM.py) | 14/06/20
 SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](20-SPLC.py) | 14/06/20
-PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](21-PROB.py) | 18/11/20
-SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | [Python](22-SSEQ.py) | 19/11/20
-TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](23-TRAN.py) | 14/06/20
+PPER | [Partial Permutations](http://rosalind.info/problems/pper/) | [Python](21-PPER.py) | 23/01/21
+PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](22-PROB.py) | 18/11/20
+SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | [Python](23-SSEQ.py) | 19/11/20
+TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](24-TRAN.py) | 14/06/20
 LIA | [Independent Alleles](http://rosalind.info/problems/lia/)
 REVP | [Locating Restriction Sites](http://rosalind.info/problems/revp/)
 LONG | [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/)
@@ -37,7 +38,6 @@ PMCH | [Perfect Matchings and RNA Secondary Structures](http://rosalind.info/pro
 TREE | [Completing a Tree](http://rosalind.info/problems/tree/)
 LEXF |
 LGIS |
-PPER |
 SIGN |
 CAT |
 CORR |
