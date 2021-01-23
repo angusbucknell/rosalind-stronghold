@@ -3,9 +3,9 @@
 [Link to my profile](http://rosalind.info/users/angusbucknell/).
 
 ## Progress
-[![](https://img.shields.io/badge/Progress-22%2F105-blue)](https://github.com/angusbucknell/rosalind-stronghold)
+[![](https://img.shields.io/badge/Progress-23%2F105-blue)](https://github.com/angusbucknell/rosalind-stronghold)
 
-ID | Title | Solution | Date
+ID | Title | Solution | Date (DD/MM/YY)
 -- | -- | -- | --
 DNA | [Counting DNA Nucleotides](http://rosalind.info/problems/dna/) | [Python](01-DNA.py) | 12/06/20
 RNA | [Transcribing DNA into RNA](http://rosalind.info/problems/rna/) | [Python](02-RNA.py) | 12/06/20
@@ -24,13 +24,13 @@ LCSM | [Finding a Shared Motif](http://rosalind.info/problems/lcsm/) | [Python](
 MPRT | [Finding a Finding a Protein Motif](http://rosalind.info/problems/mprt/) | [Python](15-MPRT.py) | 18/01/21
 MRNA | [Inferring mRNA from Protein](http://rosalind.info/problems/mrna/) | [Python](16-MRNA.py) | 14/06/20
 ORF | [Open Reading Frames](http://rosalind.info/problems/orf/) | [Python](17-ORF.py) | 19/01/21
-PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](18-PRTM.py) | 14/06/20
-SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](19-SPLC.py) | 14/06/20
-PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](20-PROB.py) | 18/11/20
-SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | [Python](21-SSEQ.py) | 19/11/20
-TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](22-TRAN.py) | 14/06/20
+PERM | [Enumerating Gene Orders](http://rosalind.info/problems/perm/) | [Python](18-PERM.py) | 23/01/21
+PRTM | [Calculating Protein Mass](http://rosalind.info/problems/prtm/) | [Python](19-PRTM.py) | 14/06/20
+SPLC | [RNA Splicing](http://rosalind.info/problems/splc/) | [Python](20-SPLC.py) | 14/06/20
+PROB | [Introduction to Random Strings](http://rosalind.info/problems/prob/) | [Python](21-PROB.py) | 18/11/20
+SSEQ | [Finding a Spliced Motif](http://rosalind.info/problems/sseq/) | [Python](22-SSEQ.py) | 19/11/20
+TRAN | [Transitions and Transversions](http://rosalind.info/problems/tran/) | [Python](23-TRAN.py) | 14/06/20
 LIA | [Independent Alleles](http://rosalind.info/problems/lia/)
-PERM | [Enumerating Gene Orders](http://rosalind.info/problems/perm/)
 REVP | [Locating Restriction Sites](http://rosalind.info/problems/revp/)
 LONG | [Genome Assembly as Shortest Superstring](http://rosalind.info/problems/long/)
 PMCH | [Perfect Matchings and RNA Secondary Structures](http://rosalind.info/problems/pmch/)
