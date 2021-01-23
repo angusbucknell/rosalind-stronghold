@@ -9,8 +9,3 @@ for i in range(0, n):
 print(int(math.factorial(n)/math.factorial(n-n))) #The nPr formula
 for i in permutations("".join(arr)):
     print(" ".join(i))
-
-
-
-
-
